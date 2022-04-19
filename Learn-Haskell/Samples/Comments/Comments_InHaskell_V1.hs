@@ -1,0 +1,2 @@
+-- This is a single line comment
+-- As far as I know, Haskell does not support multi-line comments.
