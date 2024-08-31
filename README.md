@@ -7,7 +7,7 @@
 
 I am not too experienced with the Haskell programming language at the moment. This document will go over my knowledge of the Haskell language so far.
 
-This document used versopm 2010 of the Haskell programming language. The version will be listed with each example.
+This document used version 2010 of the Haskell programming language. The version will be listed with each example.
 
 The following examples are written in Haskell, and not Literate Haskell.
 
